@@ -1,9 +1,0 @@
-{
-  "name": "FitChef - Fitness Recipes",
-  "short_name": "FitChef",
-  "start_url": "./",
-  "display": "standalone",
-  "background_color": "#07111f",
-  "theme_color": "#07111f",
-  "description": "Rețete fitness cu gramaje, calorii și macronutrienți."
-}
